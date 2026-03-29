@@ -1,0 +1,147 @@
+﻿Microsoft PnP Utility
+
+Published Name:     oem11.inf
+Original Name:      amdgpio2.inf
+Provider Name:      Advanced Micro Devices, Inc
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     09/29/2019 2.2.0.121
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem6.inf
+Original Name:      amdgpio3.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     03/14/2016 2.0.1.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem5.inf
+Original Name:      amdpcidev.inf
+Provider Name:      Advanced Micro Devices
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     05/18/2021 1.0.0.83
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem9.inf
+Original Name:      amdpsp.inf
+Provider Name:      Advanced Micro Devices Inc.
+Class Name:         SecurityDevices
+Class GUID:         {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}
+Driver Version:     06/02/2017 4.4.0.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem12.inf
+Original Name:      logi_lamparray_usb.inf
+Provider Name:      Logitech
+Class Name:         USB
+Class GUID:         {36fc9e60-c465-11cf-8056-444553540000}
+Driver Version:     04/15/2024 1.1.55.3120
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem14.inf
+Original Name:      nvppc.inf
+Provider Name:      NVIDIA
+Class Name:         USB
+Class GUID:         {36fc9e60-c465-11cf-8056-444553540000}
+Driver Version:     08/21/2025 1.52.831.832
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem4.inf
+Original Name:      nvppc.inf
+Provider Name:      NVIDIA
+Class Name:         USB
+Class GUID:         {36fc9e60-c465-11cf-8056-444553540000}
+Driver Version:     08/14/2024 1.52.831.832
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem7.inf
+Original Name:      smbusamd.inf
+Provider Name:      Advanced Micro Devices, Inc
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     01/18/2015 5.12.0.31
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem15.inf
+Original Name:      xvdd.inf
+Provider Name:      Xbox
+Class Name:         SCSIAdapter
+Class GUID:         {4d36e97b-e325-11ce-bfc1-08002be10318}
+Driver Version:     12/08/2025 10.0.22026.2
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem17.inf
+Original Name:      gameflt.inf
+Provider Name:      Xbox
+Class Name:         HSM
+Class GUID:         {d546500a-2aeb-45f6-9482-f4b1799c3177}
+Driver Version:     03/04/2026 10.0.22018.2
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem10.inf
+Original Name:      mullvad-wireguard.inf
+Provider Name:      Mullvad AB/WireGuard LLC
+Class Name:         Net
+Class GUID:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Driver Version:     06/04/2024 0.10.1.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem13.inf
+Original Name:      nvhda.inf
+Provider Name:      NVIDIA Corporation
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     12/01/2025 1.4.5.7
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem2.inf
+Original Name:      nvhda.inf
+Provider Name:      NVIDIA Corporation
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     08/14/2024 1.4.0.1
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem3.inf
+Original Name:      nvpcf.inf
+Provider Name:      NVIDIA
+Class Name:         SoftwareDevice
+Class GUID:         {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+Driver Version:     08/14/2024 32.0.15.6046
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem0.inf
+Original Name:      nvvad.inf
+Provider Name:      NVIDIA
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     05/13/2025 4.65.0.12
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem8.inf
+Original Name:      nv_dispi.inf
+Provider Name:      NVIDIA
+Class Name:         Display
+Class GUID:         {4d36e968-e325-11ce-bfc1-08002be10318}
+Driver Version:     03/04/2026 32.0.15.9579
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
+Published Name:     oem16.inf
+Original Name:      prnms009.inf
+Provider Name:      Microsoft
+Class Name:         Printer
+Class GUID:         {4d36e979-e325-11ce-bfc1-08002be10318}
+Class Version:      4.0
+Driver Version:     06/21/2006 10.0.26100.4484
+Signer Name:        Microsoft Windows
+
+Published Name:     oem18.inf
+Original Name:      voicemodvad.inf
+Provider Name:      Voicemod S.L.
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     10/08/2025 2025.10.8.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+
