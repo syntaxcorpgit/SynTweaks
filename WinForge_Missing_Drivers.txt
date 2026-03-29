@@ -1,4 +1,0 @@
-﻿Microsoft PnP Utility
-
-No devices were found on the system.
-devcon.exe not found. pnputil scan only.
