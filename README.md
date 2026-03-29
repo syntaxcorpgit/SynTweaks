@@ -199,12 +199,11 @@ There is also a local diagnostics preview so users can see what information is a
 
 ### Discord Reporting
 
-The report system can use a Discord webhook.
+The report system can use a Discord .
 
 It supports:
 
-- a built-in webhook value inside the codebase
-- the environment variable `SYNTWEAKS_DISCORD_WEBHOOK_URL`
+- a built-in sender value inside the codebase
 
 If the webhook is unavailable, SynTweaks fails gracefully and explains what is missing.
 
@@ -264,48 +263,12 @@ Higher-impact operations can request a restore point before running. This is esp
 
 If a restore point is offered, it is usually a good idea to accept it.
 
-## Build and Run
-
-This section is intended for the owner, trusted testers, and approved internal users.
 
 ### Requirements
 
 - Windows 10 or Windows 11
 - Administrator access for most features
 - .NET 8 SDK for local builds
-
-### Build
-
-```powershell
-dotnet restore Syntax.sln
-dotnet build Syntax.sln
-```
-
-### Run
-
-```powershell
-dotnet run --project SynTweaks.csproj
-```
-
-### Typical Output
-
-Build output is typically generated under:
-
-- `artifacts\bin\SynTweaks\Debug\net8.0-windows\`
-
-The executable name is:
-
-- `SynTweaks.exe`
-
-## Repository Layout
-
-| Path | Purpose |
-|---|---|
-| `Core/` | Shared infrastructure such as UI, animation, admin elevation, logging, restore points, AI, and reporting |
-| `Menus/` | Main menu and all section/subsection menu logic |
-| `Tweaks/` | Essential, advanced, gaming, privacy, network, app, registry, and service tweak implementations |
-| `Fixes/` | Repair-focused modules for Windows components and peripherals |
-| `Cleaner/` | Temp/cache cleaning and junk cleanup logic |
 
 ## Troubleshooting
 
