@@ -10,6 +10,8 @@
 
 SynTweaks is a private Windows optimization, repair, cleanup, diagnostics, and debloat toolkit built for power users, gamers, technicians, and internal testers who want one console application to handle system tuning and troubleshooting in one place.
 
+![image](https://i.imgur.com/uQxbkbG.png)
+
 It includes:
 
 - an SSH-style branded startup experience
