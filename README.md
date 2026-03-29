@@ -1,0 +1,2 @@
+# SynTweaks
+Windows Optimizer
